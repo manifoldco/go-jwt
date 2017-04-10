@@ -10,3 +10,8 @@ Convenience wrapper for JWT creation
 [![Travis](https://img.shields.io/travis/manifoldco/go-jwt/master.svg)](https://travis-ci.org/manifoldco/go-jwt)
 [![Go Report Card](https://goreportcard.com/badge/github.com/manifoldco/go-jwt)](https://goreportcard.com/report/github.com/manifoldco/go-jwt)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](./LICENSE.md)
+
+## Description
+
+This package is used by [grafton](https://github.com/manifoldco/grafton) to
+generate JWTs.
